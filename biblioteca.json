@@ -1,0 +1,170 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "id": 4,
+      "nome": "Romance"
+    },
+    {
+      "id": 5,
+      "nome": "Suspense"
+    },
+    {
+      "id": 6,
+      "nome": "Comédia"
+    },
+    {
+      "id": 7,
+      "nome": "Romance"
+    },
+    {
+      "id": 8,
+      "nome": "Romance"
+    },
+    {
+      "id": 9,
+      "nome": "Romance"
+    },
+    {
+      "id": 10,
+      "nome": "Romance"
+    },
+    [
+      {
+        "id": 11,
+        "nome": "Romance"
+      }
+    ],
+    [
+      {
+        "id": 14,
+        "nome": "Romance"
+      }
+    ]
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "id": 5,
+      "titulo": "É assim que acaba",
+      "autor": "Collen Hoover",
+      "anoPublicacao": 2018,
+      "isbn": "978-85-359-7278-0",
+      "categoriaId": 5
+    },
+    [
+      {
+        "id": 4,
+        "titulo": "É assim que Acaba",
+        "autor": "Coolen Hoover",
+        "anoPublicacao": 2020,
+        "isbn": "978-85-359-0257-3",
+        "disponivel": true,
+        "categoriaId": 1
+      }
+    ],
+    [
+      {
+        "id": 7,
+        "titulo": "Verity",
+        "autor": "Coolen Hoover",
+        "anoPublicacao": 2021,
+        "isbn": "978-85-359-0258-3",
+        "disponivel": true,
+        "categoriaId": 1
+      }
+    ],
+    [
+      {
+        "id": 8,
+        "titulo": "Fazendo meu filme",
+        "autor": "Paula Pimenta",
+        "anoPublicacao": 2008,
+        "isbn": "978-85-359-0258-4",
+        "disponivel": true,
+        "categoriaId": 1
+      }
+    ],
+    [
+      {
+        "id": 9,
+        "titulo": "Fazendo meu filme 2",
+        "autor": "Paula Pimenta",
+        "anoPublicacao": 2009,
+        "isbn": "978-85-369-0258-4",
+        "disponivel": true,
+        "categoriaId": 1
+      }
+    ],
+    [
+      {
+        "id": 10,
+        "titulo": "Fazendo meu filme 3",
+        "autor": "Paula Pimenta",
+        "anoPublicacao": 2010,
+        "isbn": "978-85-369-0238-4",
+        "disponivel": true,
+        "categoriaId": 10
+      }
+    ],
+    [
+      {
+        "id": 10,
+        "titulo": "Fazendo meu filme 3",
+        "autor": "Paula Pimenta",
+        "anoPublicacao": 2010,
+        "isbn": "978-85-369-0238-4",
+        "disponivel": true,
+        "categoriaId": 10
+      }
+    ],
+    [
+      {
+        "id": 12,
+        "titulo": "Fazendo meu filme 5",
+        "autor": "Paula Pimenta",
+        "anoPublicacao": 2010,
+        "isbn": "978-85-119-0238-4",
+        "disponivel": true,
+        "categoriaId": 12
+      }
+    ]
+  ]
+}
